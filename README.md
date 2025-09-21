@@ -1,4 +1,4 @@
-# AnimalShelter Repository (Enhanced) — CS-499 Capstone
+#  (Enhanced) Script for — CS-499 Capstone
 
 Repository layer for a MongoDB collection used in my CS-499 capstone (**VoiceNote MD**) and derived from my CS-340 CRUD artifact.  
 This enhanced version focuses on **software design and engineering quality**: clear contracts, validation, safe delete, structured logging, environment-based configuration, and basic observability.
