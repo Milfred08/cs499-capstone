@@ -1,6 +1,5 @@
 ---
 title: "Enhancement 2 — Algorithms & Data Structures"
-layout: default
 ---
 
 # Enhancement 2 — Algorithms & Data Structures
@@ -19,4 +18,5 @@ layout: default
 
 
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
+
 
