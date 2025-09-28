@@ -1,6 +1,5 @@
 ---
 title: "Enhancement 1 — Software Design & Engineering"
-layout: default
 ---
 
 # Enhancement 1 — Software Design & Engineering
@@ -31,3 +30,4 @@ Briefly state that it represents production CRUD patterns and is the base for th
 - Tests: <link>
 
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
+
