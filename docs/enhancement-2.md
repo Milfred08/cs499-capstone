@@ -17,14 +17,6 @@ layout: default
 - **CO3/CO4:** algorithm selection, complexity analysis, performance tests.
 - **CO5:** thread safety for shared cache; input handling.
 
-## Evidence
-- Tests: `test_nlp_soap_enhanced.py` (correctness, performance, concurrency).
-- Demo/benchmark script or instructions to reproduce results.
-- Brief table of complexity/perf results (from your narrative).
-
-## Links
-- Source: `nlp_soap.py` (link)  
-- Tests: <link>  
-- Narrative (PDF/DOCX): <link> (optional)
 
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
+
