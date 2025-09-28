@@ -19,15 +19,9 @@ Briefly state that it represents production CRUD patterns and is the base for th
 - **CO2/CO4:** software architecture, clean API design, unit tests.
 - **CO5:** security-minded defaults (guards, validation), audit scaffolding.
 
-## Evidence
-- Tests: `test_repo_safety_and_validation.py` (link).  
-- Key file: `AnimalShelter_enhanced.py` (link).  
-- Screenshot/snippet of **pytest passed**.
 
-## Links
-- Original file (CS-340 repo): <link>  
-- Enhanced file (capstone repo): <link>  
-- Tests: <link>
+
 
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
+
 
