@@ -6,13 +6,16 @@ Introduction
 
 This ePortfolio represents what I can do as a computer science professional. During CS-499, I refined earlier coursework and focused on building reliable, secure, and testable software. I worked on three areas: software design and engineering, algorithms and data structures, and databases. I also created a complete code review and used the feedback to improve quality. My goal was simple: show practical skills that are ready for work.
 
+
 Career Goals
 
 I live in Orlando, Florida and work as a Systems Analyst. My next step is a role where I design and build secure backend services and data workflows—ideally in healthcare or another data-sensitive field. Long term, I want to lead small engineering teams and own services from design to deployment. I enjoy solving problems with clear code, clean interfaces, and measurable results.
 
+
 Professional Identity and Strengths
 
 I write software that is easy to understand and easy to maintain. I prefer small, well-named functions, defensive validation, and tests that run fast. I design simple APIs with clear request/response models. I use logging, environment-based configuration, and safe defaults. Security is part of my design, not an afterthought. I am comfortable explaining decisions to non-engineers with diagrams, short notes, and examples.
+
 
 Evidence of Program Outcomes
 1) Build collaborative environments and support organizational decisions
@@ -41,9 +44,12 @@ Why it matters: The repository is now safer and easier to reuse in a web API. De
 
 5) Apply a security mindset to protect data and systems
 
+
 What I did: For the database enhancement, I introduced field-level validation, unique indexes, audit logging, and example PHI masking at the presentation layer. I also grouped queries into safe repository methods to reduce injection risks and added a place for role checks.
 
+
 Why it matters: Security is built in from the start: least privilege, input validation, safe query patterns, and audit trails. These practices reduce the chance of data leaks and help with compliance.
+
 
 What I Learned
 
@@ -55,6 +61,7 @@ Evidence beats opinion. Timing numbers, test output, and logs make a stronger ca
 
 Security is design. Index choices, data models, and boundaries affect risk as much as any library.
 
+
 Challenges and How I Addressed Them
 
 Balancing features and scope: I kept the NLP pipeline rule-based to ship a working, testable solution. I documented how to extend it later with statistical models.
@@ -63,9 +70,11 @@ Legacy code clean-up: I handled refactoring in steps—first validation and retu
 
 Database correctness: I used indexes and uniqueness rules to push data quality into the database. This prevents entire classes of bugs at runtime.
 
+
 Ethical Practice and Data Privacy
 
 The portfolio uses only synthetic or public sample data. I treat personal data as a liability that must be protected. I added PHI masking patterns, audit records, and safe defaults. I believe engineers have a duty to make privacy the default, not an optional feature.
+
 
 Growth Plan (Next 6–12 Months)
 
@@ -79,6 +88,8 @@ Package the service with Docker and add minimal deployment docs.
 
 Explore a lightweight ML model to improve entity extraction accuracy while keeping latency under control.
 
+
 Conclusion
 
 This ePortfolio shows consistent habits: clear structure, security by design, and practical testing. I focused on work that a team can trust—defensive inputs, safe data access, and results that are easy to explain. I am ready to contribute as a backend and data-focused engineer, especially in environments where correctness and privacy matter.
+
