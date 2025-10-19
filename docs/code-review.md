@@ -5,6 +5,7 @@
 **Review Date:** September 9, 2025  
 
 **Links:**  
+- **Code Review As Video:** https://1drv.ms/v/c/cc08d443ea47a64f/EannJoT6JnNPmkLsgG5TGhcBvjQLBDt4u0kdmFK7LkOZXg
 - **Original code (sanitized copy):** https://github.com/Milfred08/cs499-capstone/tree/main/Artififact/cs340-animalshelter/original  
 - **Enhanced drop-in:** https://github.com/Milfred08/cs499-capstone/blob/main/Artififact/cs340-animalshelter/enhanced/AnimalShelter_enhanced.py  
 - **Issue backlog:** https://github.com/Milfred08/cs499-capstone/issues  
@@ -74,3 +75,4 @@ client = MongoClient("mongodb://user:pass@host:27017/")
 import os
 uri = os.getenv("MONGO_URI", "mongodb://localhost:27017/")
 client = MongoClient(uri, serverSelectionTimeoutMS=5000)
+
