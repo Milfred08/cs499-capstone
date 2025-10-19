@@ -8,7 +8,7 @@ This ePortfolio represents what I can do as a computer science professional. Dur
 
 ## Career Goals
 
-I live in Orlando, Florida and work as a Systems Analyst. My next step is a role where I design and build secure backend services and data workflows—ideally in healthcare or another data-sensitive field. Long term, I want to lead small engineering teams and own services from design to deployment. I enjoy solving problems with clear code, clean interfaces, and measurable results.
+I live in Orlando, Florida and work as a Systems Analyst. My next step is a role where I design and build secure backend services and data workflows ideally in healthcare or another data-sensitive field. Long term, I want to lead small engineering teams and own services from design to deployment. I enjoy solving problems with clear code, clean interfaces, and measurable results.
 
 ## Professional Identity and Strengths
 
@@ -76,3 +76,4 @@ The portfolio uses only synthetic or public sample data. I treat personal data a
 ## Conclusion
 
 This ePortfolio shows consistent habits: clear structure, security by design, and practical testing. I focused on work that a team can trust—defensive inputs, safe data access, and results that are easy to explain. I am ready to contribute as a backend and data-focused engineer, especially in environments where correctness and privacy matter.
+
